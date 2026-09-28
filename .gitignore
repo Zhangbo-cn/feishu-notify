@@ -1,0 +1,13 @@
+# 飞书凭证 —— 绝不入库
+.feishu_apps.json
+.feishu_app
+.feishu_chat
+.feishu_webhook
+.feishu_secret
+.lark_key
+
+# 运行时产物
+__pycache__/
+*.py[cod]
+.venv/
+*.log
